@@ -1,0 +1,2 @@
+1. file htdocs = testapp
+2. android app = VeilitionApp
